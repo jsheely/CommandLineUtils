@@ -6,10 +6,10 @@ using System.Threading;
 using System.Threading.Tasks;
 using McMaster.Extensions.CommandLineUtils;
 using McMaster.Extensions.CommandLineUtils.Abstractions;
-using McMaster.Extensions.Hosting.CommandLine;
 using McMaster.Extensions.Hosting.CommandLine.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
+using Microsoft.Extensions.Hosting;
 
 namespace McMaster.Extensions.Hosting.CommandLine
 {
